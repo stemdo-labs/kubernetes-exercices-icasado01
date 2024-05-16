@@ -11,8 +11,10 @@
 ![image](https://github.com/stemdo-labs/kubernetes-exercices-icasado01/assets/166407751/689a5403-9436-426e-8244-7151447fecd2)
 
 ## Comprobar el estado
-![image](https://github.com/stemdo-labs/kubernetes-exercices-icasado01/assets/166407751/7e8195c6-ea29-4ad5-b2f9-c85798011e70)
+![image](https://github.com/stemdo-labs/kubernetes-exercices-icasado01/assets/166407751/7f16f6df-aa81-4477-b6a7-1b17a00c0218)
 
-![image](https://github.com/stemdo-labs/kubernetes-exercices-icasado01/assets/166407751/790c1253-7d4e-4115-ad89-bcdda7e2352f)
+![image](https://github.com/stemdo-labs/kubernetes-exercices-icasado01/assets/166407751/72e72280-a032-43ef-9117-0faa78be8087)
 
-![image](https://github.com/stemdo-labs/kubernetes-exercices-icasado01/assets/166407751/67980475-f896-4c96-a709-8adf461610f7)
+![image](https://github.com/stemdo-labs/kubernetes-exercices-icasado01/assets/166407751/829ca7ff-9929-4c1b-95a1-758f26edbad9)
+
+![image](https://github.com/stemdo-labs/kubernetes-exercices-icasado01/assets/166407751/3d3c1b02-5fc3-439e-b9f9-3ed12c698f63)
