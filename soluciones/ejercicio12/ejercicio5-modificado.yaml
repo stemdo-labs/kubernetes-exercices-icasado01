@@ -1,0 +1,18 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: demogat-yaml
+spec:
+  selector:
+    matchLabels:
+      app: "gato"
+  strategy:
+    type: Recreate
+  template:
+    metadata:
+      labels:
+        app: "gato"
+    spec:
+      containers:
+      - name: tomcat
+        image: tomcat:10.1.24-jre11-temurin-jammy
